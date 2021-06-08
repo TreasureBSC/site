@@ -24,7 +24,7 @@ export default class ParticlesBG extends Component{
                                 random: true
                             },
                             move: {
-                                direction: 'top',
+                                direction: 'bottom',
                                 out_mode: 'out'
                             },
                             line_linked: {

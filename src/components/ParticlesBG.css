@@ -4,7 +4,7 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../img/aaa-game-art-studio-maze-bg-3-fin-04.jpg');
     background-size: cover;
-    background-position: center;
+    background: linear-gradient(0deg, rgba(0, 44, 80, 0.3), rgba(0, 0, 0, 0.3)), url('../img/beachbg.png') center;
+    background-size:cover;
 }

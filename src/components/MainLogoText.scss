@@ -1,7 +1,7 @@
 #treasure {
   position:absolute; /*You may also use fixed depending on your needs.*/
   z-index: 999;
-  top: 250px;
+  top: 200px;
   right: 38%;
   display: block;
   margin-left: auto;
@@ -9,8 +9,10 @@
   width: 25%;
 }
 
-body {
-  font-family: "Gill Sans Extrabold", sans-serif;
+.title {
+  font-family: Arial, Defcon, sans-serif;
+  font-weight: bolder;
+  font-style: italic;
 }
 
 .container {
@@ -123,12 +125,17 @@ body {
 }
 
 .subtitle {
-  font-family: "Gill Sans Extrabold", sans-serif;
-  font-weight: 100;
+  font-family: Arial, Defcon, sans-serif;
+  font-weight: bolder;
   font-size: 18px;
+  text-shadow:
+          0 0 5px #003771,
+          0 0 10px #003771,
+          0 0 20px #003771;
   color: rgb(255, 255, 255);
   text-transform: uppercase;
   text-align: center;
+  left: 4%;
   position: absolute;
   animation: glitch-2 5s 5.02s infinite;
 }

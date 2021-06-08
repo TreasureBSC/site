@@ -1,6 +1,6 @@
 import {Component} from 'react';
 import styles from './MainLogoText.scss';
-import treasure from "../img/mainlogo.png";
+import treasure from "../img/piratechest.png";
 
 export default class MainLogo extends Component{
     render(){
@@ -11,9 +11,11 @@ export default class MainLogo extends Component{
                 </div>
 
                 <div className="container">
-                    <div className="glitch" data-text="TREASURE">TREASURE</div>
-                    <div className="glow">TREASURE</div>
-                    <p className="subtitle">safest store of value on the Binance Smart Chain</p>
+                    <div className="title">
+                        <div className="glitch" data-text="TREASURE">TREASURE</div>
+                        <div className="glow">TREASURE</div>
+                    </div>
+                    <p className="subtitle">generate passive income by holding</p>
                 </div>
             </div>
         );
