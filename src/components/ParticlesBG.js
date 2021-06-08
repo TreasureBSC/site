@@ -11,7 +11,7 @@ export default class ParticlesBG extends Component{
                     params={{
                         particles: {
                             color: {
-                                value: '#1a44ad'
+                                value: '#8dabff'
                             },
                             number: {
                                 value: 160,

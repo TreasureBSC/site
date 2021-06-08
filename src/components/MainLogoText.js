@@ -13,7 +13,7 @@ export default class MainLogo extends Component{
                 <div className="container">
                     <div className="glitch" data-text="TREASURE">TREASURE</div>
                     <div className="glow">TREASURE</div>
-                    <p className="subtitle">Safest long-term store of value token on the Binance Smart Chain</p>
+                    <p className="subtitle">safest store of value on the Binance Smart Chain</p>
                 </div>
             </div>
         );
