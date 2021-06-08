@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.b26f7ac1.chunk.css",
+    "main.js": "/site/static/js/main.d9d2ad71.chunk.js",
+    "main.js.map": "/site/static/js/main.d9d2ad71.chunk.js.map",
+    "runtime-main.js": "/site/static/js/runtime-main.922c7744.js",
+    "runtime-main.js.map": "/site/static/js/runtime-main.922c7744.js.map",
+    "static/js/2.4bc8e6e0.chunk.js": "/site/static/js/2.4bc8e6e0.chunk.js",
+    "static/js/2.4bc8e6e0.chunk.js.map": "/site/static/js/2.4bc8e6e0.chunk.js.map",
+    "static/js/3.ac79a49b.chunk.js": "/site/static/js/3.ac79a49b.chunk.js",
+    "static/js/3.ac79a49b.chunk.js.map": "/site/static/js/3.ac79a49b.chunk.js.map",
+    "index.html": "/site/index.html",
+    "static/css/main.b26f7ac1.chunk.css.map": "/site/static/css/main.b26f7ac1.chunk.css.map",
+    "static/js/2.4bc8e6e0.chunk.js.LICENSE.txt": "/site/static/js/2.4bc8e6e0.chunk.js.LICENSE.txt",
+    "static/media/ParticlesBG.css": "/site/static/media/beachbg.06d70bd1.png",
+    "static/media/piratechest.14baab7c.png": "/site/static/media/piratechest.14baab7c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.922c7744.js",
+    "static/js/2.4bc8e6e0.chunk.js",
+    "static/css/main.b26f7ac1.chunk.css",
+    "static/js/main.d9d2ad71.chunk.js"
+  ]
+}
